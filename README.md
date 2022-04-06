@@ -7,4 +7,4 @@ Questo e un sito di presentazione dove raccoldo tutti i miei proggetti ed e anch
 
 
 ### Ringrazio per le librerie
-- asdfghj
+- asdfghjqwer
